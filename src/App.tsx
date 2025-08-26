@@ -1,3 +1,5 @@
+import Home from "./pages/Home";
+
 export default () => {
-  return <h1>To Do List</h1>;
+  return <Home />;
 };
